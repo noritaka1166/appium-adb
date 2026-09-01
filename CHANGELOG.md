@@ -1,3 +1,9 @@
+## [16.0.5](https://github.com/appium/appium-adb/compare/v16.0.4...v16.0.5) (2026-09-01)
+
+### Miscellaneous Chores
+
+* **deps:** Bump actions/setup-java from 5 to 6 ([#899](https://github.com/appium/appium-adb/issues/899)) ([7705861](https://github.com/appium/appium-adb/commit/770586117ffb1b8f2eda373d60cfbf7d3a8394c0))
+
 ## [16.0.4](https://github.com/appium/appium-adb/compare/v16.0.3...v16.0.4) (2026-09-01)
 
 ### Miscellaneous Chores

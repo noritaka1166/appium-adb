@@ -1,3 +1,9 @@
+## [16.0.4](https://github.com/appium/appium-adb/compare/v16.0.3...v16.0.4) (2026-09-01)
+
+### Miscellaneous Chores
+
+* bump support & other deps ([#900](https://github.com/appium/appium-adb/issues/900)) ([2967148](https://github.com/appium/appium-adb/commit/29671481c7a3492ce14c554c31b5b4bcf20f3cf8))
+
 ## [16.0.3](https://github.com/appium/appium-adb/compare/v16.0.2...v16.0.3) (2026-07-30)
 
 ### Miscellaneous Chores
